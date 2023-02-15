@@ -1,0 +1,4 @@
+repository "LAB1_AlexandreBlaisOuellette@Old_Wolf_AL@cloud"
+  path "/"
+    br "/main"
+    co "/main"
